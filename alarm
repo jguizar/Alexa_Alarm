@@ -1,0 +1,7 @@
+day='Monday'
+play '  [D_B,]/[D_B,]/[D_B,]/[D_B,]/[D_B,]/[D_B,]/[D_B,]/[D_B,]/[D_B,]/[D_B,]/[D_B,]/[D_B,]/  [D_B,]/[D_B,]/[D_B,]/[D_B,]/'
+say 'Goodmorning! It is time to wake up'
+if day is 'Monday'
+  say 'You have to go to school today'
+else
+  say 'goodbye!'
